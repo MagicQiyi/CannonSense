@@ -1,5 +1,4 @@
-# CannonSense
-## CannonSense官方网站
+# CannonSense官方网站
 ### 使用教程
 1.下载
 2.解压
